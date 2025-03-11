@@ -1,1 +1,13 @@
+"Brahmi -Pro Mini" is powered by Renesas based RA01 ARM Cortex M23, in an Arduino Pro Mini formfactor.
+The entire design is open source with schematics, BOM, Diptrace design files and gerber files. The board is based on 
+LSSOP package variant, RA01 CSC.
 
+Salient Features of the Board Designs.
+
+Open source, FREE for all to download and use.
+Arduino Pro Mini formfactor and drop-in replacement for Arduino Pro Mini running AtMega328P
+Board supports both 64K Flash and 32K Flash variants, providing easy migration to 32 bit ARM from 8 bit AVR microcontroller
+Board  can operate from 1.65V to 5V as RA01 supports extended voltage range[ use appropriate LDO from TI]
+On-board Debug pins.
+Arduino support [ coming soon]
+Customisation, hardware, firmware and product design support provided by 365 Designs www.365designs.in
